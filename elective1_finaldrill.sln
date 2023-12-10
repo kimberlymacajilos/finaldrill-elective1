@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "elective1_finaldrill", "elective1_finaldrill\elective1_finaldrill.csproj", "{39B5CABA-6BA6-4081-8CF9-C7FA52E80E4F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{39B5CABA-6BA6-4081-8CF9-C7FA52E80E4F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{39B5CABA-6BA6-4081-8CF9-C7FA52E80E4F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{39B5CABA-6BA6-4081-8CF9-C7FA52E80E4F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{39B5CABA-6BA6-4081-8CF9-C7FA52E80E4F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A1D671D3-C460-4B43-A427-C73285DA07AA}
+	EndGlobalSection
+EndGlobal
